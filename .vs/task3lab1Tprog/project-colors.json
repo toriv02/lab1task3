@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "68aa63b2-791b-4179-ae9d-9d0969afa76c": {
+      "ProjectGuid": "68aa63b2-791b-4179-ae9d-9d0969afa76c",
+      "DisplayName": "task3lab1TprogTests",
+      "ColorIndex": 0
+    },
+    "5b17a652-a996-4fdb-98b8-c90ee021e919": {
+      "ProjectGuid": "5b17a652-a996-4fdb-98b8-c90ee021e919",
+      "DisplayName": "task3lab1Tprog",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
